@@ -2,6 +2,9 @@
 Course Lab1 of PKU: Multi-Agent system(24-Spring). An DQN agent for the classical BeerGAME. 
 This project is based on the BeerGAME environment: [BeerGAME](https://github.com/YanSong97/BeerGame_demo)
 
+
+![f6141d8e71ee39e704d5ccee4655e80](https://github.com/spidermonk7/BeerGAME_DQN/assets/98212025/7b7c7278-a715-4a38-ab0a-6b144587343a)
+
 ## Quickstart
 To train a DQN model with other players using bs strategy, please run:
   
@@ -25,7 +28,7 @@ Here's the description of optional arguments:
 | --priority | False | if use priority replay |
 | --competitors | DQN | strategy of other players(in bs, random, DQN) |
 
-
+And for detailed discussions, please check my report: **MA__BeerGame (2).pdf**
 
 
     
